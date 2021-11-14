@@ -6,7 +6,8 @@ z nagłówków przypisać paragraf. Zapisz jako zadanie 1
 `Zadanie 2`: Do wcześniej wykonanej struktury do jednego  z wybranych paragrafów użyj 6 formatowań tekstu i zapisz jako zadanie 2
 
 `Zadanie 3`: Stworzenie strony z elementami listy jak na załączonym obrazku i zapisanie jako zadanie 3
- 
+ ![image](https://user-images.githubusercontent.com/24233938/141695662-84fff3ff-49b0-46b5-9a7f-66a023d67038.png)
+
 	
 `Zadanie 4` Utwórz strukturę strony głównej index.html z elementami: 
 -	 odnośnikami do jakiegoś rozdziału na naszej stronie 
