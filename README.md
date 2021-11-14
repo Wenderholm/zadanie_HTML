@@ -21,15 +21,15 @@ zapisz zadanie jako zadanie 4
 
 `Zadanie 6` formularz do wykonania:
 Stwórz formularz dla wypożyczalni samochodowej. Powinna być w nim możliwość wyboru lub wprowadzenia następujących informacji:
-Dane wypożyczającego
+1.Dane wypożyczającego:
 - Imię, nazwisko, data urodzenia, numer prawa jazdy
-Dane kontaktowe
+2.Dane kontaktowe
 - Adres email, numer telefonu
-Wybór samochodu i usługi dodatkowe
+3.Wybór samochodu i usługi dodatkowe
 - Opel Corsa, Fiat 500, Toyota Prius, Mercedes GLA200
 - Nawigacja (+50zł)
-Okres wynajmu
+4.Okres wynajmu
 - Data początkowa i data końcowa
 - Miejsce odbioru i zwrotu (Lotnisko, dworzec PKP, dowolna lokalizacja (+100zł))
-Dodatkowe uwagi
+5.Dodatkowe uwagi
 - Dowolny tekst
