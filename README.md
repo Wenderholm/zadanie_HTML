@@ -34,3 +34,5 @@ Data początkowa i data końcowa
 Miejsce odbioru i zwrotu (Lotnisko, dworzec PKP, dowolna lokalizacja (+100zł))
 `Dodatkowe uwagi:`
 Dowolny tekst
+
+![image](https://user-images.githubusercontent.com/24233938/141695638-ef759122-8cb9-4e67-af03-a7f3303e59c2.png)
